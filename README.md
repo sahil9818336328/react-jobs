@@ -1,0 +1,6 @@
+- fetch jobs data
+- Iterate and display jobs
+- render job specific buttons
+- change jobs on click
+- uuid
+- react icons
